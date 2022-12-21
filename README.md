@@ -23,3 +23,8 @@ Key Words: game, unity.
 :bow:Game start screen, with exit buttons, start and volume options implemented 
 ![Start Screen](paginainicial.jpeg "Start Screen ")
 
+
+:movie_camera:Gameplay in a minute : (sneak peek)
+
+https://user-images.githubusercontent.com/81262462/208971533-8d07aa59-1c3a-4c11-a33a-7a33bf0b1d5d.mp4
+

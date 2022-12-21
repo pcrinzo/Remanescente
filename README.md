@@ -18,3 +18,6 @@ We conclude that this project in the development of a game contributes to our ac
 
 Key Words: game, unity.
 
+:point_right:The game was developed for mobile, and in this first version were implemented the use of 3 weapons, inventory, animation of the main character and enemies. 
+
+:bow:Game start screen, with exit buttons, start and volume options implemented 
